@@ -1,0 +1,14 @@
+{
+    "project_type": "javascript",
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 50,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "suggestRotation": 2,
+    "AndroidRenderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules" : ["cocos2d", "ccui", "spine"],
+    "jsList" : [
+    ]
+}
