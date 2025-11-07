@@ -1,0 +1,11 @@
+lib
+.cocos-project.json
+CMakeLists.txt
+index.html
+manifest.webapp
+project.json
+README.md
+.vscode
+.idea
+.module
+.frameworks
